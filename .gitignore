@@ -1,0 +1,13 @@
+/Musicas
+/Playlists
+# Ignorar arquivos de log e cache
+*.log
+*.cache
+# Ignorar arquivos temporários
+*.tmp
+*.temp
+# Ignorar arquivos de configuração local
+config.json
+.venv/
+.venv
+.env
